@@ -9,6 +9,8 @@ Different CI/CD systems I have tried out to some extent -
 - [Concourse CI/CD](https://concourse-ci.org/)
 - [Tekton CI/CD](https://tekton.dev/) - It's a framework for creating CI/CD 
   systems actually and it has enough features out of the box!
+- [AppVeyor](https://www.appveyor.com)
+- [GoCD](https://www.gocd.org/)
 
 Others that I have heard of but not used are -
 - [Drone](https://www.drone.io/)
